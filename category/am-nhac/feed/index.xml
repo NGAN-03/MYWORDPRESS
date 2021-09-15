@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Âm Nhạc &#8211; MUSIC WEB NGANNGO </title>
+	<atom:link href="http://localhost/myproject/wordpress/wordpress/category/am-nhac/feed/" rel="self" type="application/rss+xml" />
+	<link>https://ngan-03.github.io/MYWORDPRESS</link>
+	<description></description>
+	<lastBuildDate>Tue, 14 Sep 2021 01:28:02 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+
+<image>
+	<url>https://ngan-03.github.io/MYWORDPRESS/wp-content/uploads/2021/09/HC2654B.jpg</url>
+	<title>Âm Nhạc &#8211; MUSIC WEB NGANNGO </title>
+	<link>https://ngan-03.github.io/MYWORDPRESS</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>4 Anime sở hữu phần nhạc phim được khán giả yêu thích nhất</title>
+		<link>https://ngan-03.github.io/MYWORDPRESS/4-anime-so-huu-phan-nhac-phim-duoc-khan-gia-yeu-thich-nhat/</link>
+					<comments>https://ngan-03.github.io/MYWORDPRESS/4-anime-so-huu-phan-nhac-phim-duoc-khan-gia-yeu-thich-nhat/#respond</comments>
+		
+		<dc:creator><![CDATA[Ngân]]></dc:creator>
+		<pubDate>Mon, 13 Sep 2021 12:50:50 +0000</pubDate>
+				<category><![CDATA[Âm Nhạc]]></category>
+		<category><![CDATA[Bài Hát]]></category>
+		<category><![CDATA[Nhac Phim]]></category>
+		<guid isPermaLink="false">https://ngan-03.github.io/MYWORDPRESS/?p=349</guid>
+
+					<description><![CDATA[Âm nhạc luôn đem đến những điều kỳ diệu, đầy mới lạ cho cuộc sống hiện thực. Mỗi lời hát, mỗi giai điệu đều là nguyên liệu cảm xúc dẫn dắt mọi người đắm mình vào không gian, bối cảnh của một câu chuyện anime. Những ngôn từ, điệu nhạc sẽ gợi nhắc người xem nhớ đến bộ phim anime mà họ từng yêu thích.]]></description>
+		
+					<wfw:commentRss>https://ngan-03.github.io/MYWORDPRESS/4-anime-so-huu-phan-nhac-phim-duoc-khan-gia-yeu-thich-nhat/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
