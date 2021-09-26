@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Kèn &#8211; MUSIC WEB NGANNGO </title>
+	<atom:link href="http://localhost/myproject/wordpress/wordpress/tu-khoa-san-pham/ken/feed/" rel="self" type="application/rss+xml" />
+	<link>https://ngan-03.github.io/MYWORDPRESS</link>
+	<description></description>
+	<lastBuildDate>Sat, 25 Sep 2021 14:03:11 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+
+<image>
+	<url>https://ngan-03.github.io/MYWORDPRESS/wp-content/uploads/2021/09/HC2654B.jpg</url>
+	<title>Kèn &#8211; MUSIC WEB NGANNGO </title>
+	<link>https://ngan-03.github.io/MYWORDPRESS</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Kèn Saxophone 82Z</title>
+		<link>https://ngan-03.github.io/MYWORDPRESS/sản%20phẩm/ken-saxophone-82z/</link>
+					<comments>https://ngan-03.github.io/MYWORDPRESS/sản%20phẩm/ken-saxophone-82z/#respond</comments>
+		
+		<dc:creator><![CDATA[Ngân]]></dc:creator>
+		<pubDate>Fri, 24 Sep 2021 03:42:51 +0000</pubDate>
+				<guid isPermaLink="false">https://ngan-03.github.io/MYWORDPRESS/?post_type=product&#038;p=560</guid>
+
+					<description><![CDATA[Saxophone là loại nhạc cụ thuộc họ kèn gỗ. Chúng được áp dụng một cách rộng rãi trong âm nhạc hiện nay nhất là trong nhạc cổ điển, nhạc thính phòng.Đây là các nhạc cụ làm bằng đồng thau; có vẻ bề ngoài đẹp và sang trọng.]]></description>
+		
+					<wfw:commentRss>https://ngan-03.github.io/MYWORDPRESS/sản%20phẩm/ken-saxophone-82z/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

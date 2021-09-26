@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Dây Đàn &#8211; MUSIC WEB NGANNGO </title>
+	<atom:link href="http://localhost/myproject/wordpress/wordpress/tu-khoa-san-pham/day-dan/feed/" rel="self" type="application/rss+xml" />
+	<link>https://ngan-03.github.io/MYWORDPRESS</link>
+	<description></description>
+	<lastBuildDate>Sat, 25 Sep 2021 23:49:13 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+
+<image>
+	<url>https://ngan-03.github.io/MYWORDPRESS/wp-content/uploads/2021/09/HC2654B.jpg</url>
+	<title>Dây Đàn &#8211; MUSIC WEB NGANNGO </title>
+	<link>https://ngan-03.github.io/MYWORDPRESS</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Dây Đàn Guitar Acoustic</title>
+		<link>https://ngan-03.github.io/MYWORDPRESS/sản%20phẩm/day-dan-guitar-acoustic/</link>
+					<comments>https://ngan-03.github.io/MYWORDPRESS/sản%20phẩm/day-dan-guitar-acoustic/#respond</comments>
+		
+		<dc:creator><![CDATA[Ngân]]></dc:creator>
+		<pubDate>Fri, 24 Sep 2021 12:51:05 +0000</pubDate>
+				<guid isPermaLink="false">https://ngan-03.github.io/MYWORDPRESS/?post_type=product&#038;p=642</guid>
+
+					<description><![CDATA[Dây dành cho đàn guitar acoustic được làm bằng chất liệu cao cấp, độ bền cao. Sản phẩm có độ dẻo dai, sức bền cao và được làm bằng lõi thép không gỉ với lớp bọc mạ đồng bên ngoài. Cùng với trọng lượng dây phù hợp...]]></description>
+		
+					<wfw:commentRss>https://ngan-03.github.io/MYWORDPRESS/sản%20phẩm/day-dan-guitar-acoustic/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
