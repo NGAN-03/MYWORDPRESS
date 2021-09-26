@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/myproject/wordpress/wordpress/danh-muc-san-pham/phu-kien/feed/" rel="self" type="application/rss+xml" />
 	<link>https://ngan-03.github.io/MYWORDPRESS</link>
 	<description></description>
-	<lastBuildDate>Sun, 26 Sep 2021 00:47:15 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 26 Sep 2021 10:23:02 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,24 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Bàn Đạp P2050C</title>
+		<link>https://ngan-03.github.io/MYWORDPRESS/product/ban-dap-p2050c/</link>
+					<comments>https://ngan-03.github.io/MYWORDPRESS/product/ban-dap-p2050c/#respond</comments>
+		
+		<dc:creator><![CDATA[Ngân]]></dc:creator>
+		<pubDate>Sun, 26 Sep 2021 10:19:29 +0000</pubDate>
+				<guid isPermaLink="false">https://ngan-03.github.io/MYWORDPRESS/?post_type=product&#038;p=746</guid>
+
+					<description><![CDATA[Ổ đĩa xích đơn giúp thao tác đạp chính xác hơn.
+Khóa lò xo có độ bền và độ mịn tốt hơn.Đầu búa nỉ mở rộng, cảm giác gõ mạnh mẽ, cảm giác trống mạnh mẽ.
+Có thể điều chỉnh góc đầu búa.]]></description>
+		
+					<wfw:commentRss>https://ngan-03.github.io/MYWORDPRESS/product/ban-dap-p2050c/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Nhóm Sản Phẩm 2</title>
 		<link>https://ngan-03.github.io/MYWORDPRESS/product/nhom-san-pham-2/</link>
 					<comments>https://ngan-03.github.io/MYWORDPRESS/product/nhom-san-pham-2/#respond</comments>
@@ -39,22 +57,6 @@
 					<description><![CDATA[Bao gồm trống, bàn đạp trống, dùi trống]]></description>
 		
 					<wfw:commentRss>https://ngan-03.github.io/MYWORDPRESS/product/nhom-san-pham-2/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Bàn Đạp Trống P2050C</title>
-		<link>https://ngan-03.github.io/MYWORDPRESS/product/ban-da%cc%a3p-trong-pearl-p2050c/</link>
-					<comments>https://ngan-03.github.io/MYWORDPRESS/product/ban-da%cc%a3p-trong-pearl-p2050c/#respond</comments>
-		
-		<dc:creator><![CDATA[Ngân]]></dc:creator>
-		<pubDate>Sat, 25 Sep 2021 15:17:31 +0000</pubDate>
-				<guid isPermaLink="false">https://ngan-03.github.io/MYWORDPRESS/?post_type=product&#038;p=706</guid>
-
-					<description><![CDATA[ĐIỀU KHIỂN TỰ NHIÊN: Với kích thước nhỏ hơn, bộ QuadBeater cải tiến của Pearl cung cấp cho bốn mặt cùng của bản gốc (hai loại nhựa cứng, hai mảnh), nhưng với cảm giác và sức mạnh của trung tâm...]]></description>
-		
-					<wfw:commentRss>https://ngan-03.github.io/MYWORDPRESS/product/ban-da%cc%a3p-trong-pearl-p2050c/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

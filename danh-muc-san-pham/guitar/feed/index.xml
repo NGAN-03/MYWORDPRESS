@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/myproject/wordpress/wordpress/danh-muc-san-pham/guitar/feed/" rel="self" type="application/rss+xml" />
 	<link>https://ngan-03.github.io/MYWORDPRESS</link>
 	<description></description>
-	<lastBuildDate>Sun, 26 Sep 2021 00:47:15 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 26 Sep 2021 10:40:47 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,22 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Đàn Guitar Classic</title>
+		<link>https://ngan-03.github.io/MYWORDPRESS/product/dan-guitar-classic/</link>
+					<comments>https://ngan-03.github.io/MYWORDPRESS/product/dan-guitar-classic/#respond</comments>
+		
+		<dc:creator><![CDATA[Ngân]]></dc:creator>
+		<pubDate>Sun, 26 Sep 2021 10:37:48 +0000</pubDate>
+				<guid isPermaLink="false">https://ngan-03.github.io/MYWORDPRESS/?post_type=product&#038;p=749</guid>
+
+					<description><![CDATA[Không lo cong cần vì đàn đã có ty chống cong Mặt gỗ thông cho âm hay hơn Dây cực thấp giúp bạn chơi đỡ đau tay. Mặt top gỗ thông nguyên tấm. Nước sơn Pu mờ và bóng, Khóa chống rỉ]]></description>
+		
+					<wfw:commentRss>https://ngan-03.github.io/MYWORDPRESS/product/dan-guitar-classic/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Nhóm Sản Phẩm 2</title>
 		<link>https://ngan-03.github.io/MYWORDPRESS/product/nhom-san-pham-2/</link>
 					<comments>https://ngan-03.github.io/MYWORDPRESS/product/nhom-san-pham-2/#respond</comments>
@@ -170,22 +186,6 @@
 					<description><![CDATA[Không lo cong cần vì đàn đã có ty chống cong Mặt gỗ thông cho âm hay hơn Dây cực thấp giúp bạn chơi đỡ đau tay. Mặt top gỗ thông nguyên tấm.]]></description>
 		
 					<wfw:commentRss>https://ngan-03.github.io/MYWORDPRESS/product/dan-guitar-acoustic/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Guitar Điện ST Thân Gỗ</title>
-		<link>https://ngan-03.github.io/MYWORDPRESS/product/dan-guitar-dien-st-than-go/</link>
-					<comments>https://ngan-03.github.io/MYWORDPRESS/product/dan-guitar-dien-st-than-go/#respond</comments>
-		
-		<dc:creator><![CDATA[Ngân]]></dc:creator>
-		<pubDate>Thu, 23 Sep 2021 12:32:21 +0000</pubDate>
-				<guid isPermaLink="false">https://ngan-03.github.io/MYWORDPRESS/?post_type=product&#038;p=512</guid>
-
-					<description><![CDATA[Phong cách guitar có chất âm bao phủ, thanh tao của Ed O'Brien là một phần thiết yếu tạo nên bản sắc âm thanh của “Radiohead”. Chúng tôi đã hợp tác với tay guitar nổi tiếng ...]]></description>
-		
-					<wfw:commentRss>https://ngan-03.github.io/MYWORDPRESS/product/dan-guitar-dien-st-than-go/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

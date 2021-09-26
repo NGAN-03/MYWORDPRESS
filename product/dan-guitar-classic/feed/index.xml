@@ -7,11 +7,11 @@
 	>
 <channel>
 	<title>
-	Bình luận cho MUSIC WEB NGANNGO 	</title>
-	<atom:link href="http://localhost/myproject/wordpress/wordpress/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://ngan-03.github.io/MYWORDPRESS</link>
+	Các phản hồi luận về: Đàn Guitar Classic	</title>
+	<atom:link href="http://localhost/myproject/wordpress/wordpress/product/dan-guitar-classic/feed/" rel="self" type="application/rss+xml" />
+	<link>https://ngan-03.github.io/MYWORDPRESS/product/dan-guitar-classic/</link>
 	<description></description>
-	<lastBuildDate>Sun, 26 Sep 2021 10:40:47 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 26 Sep 2021 10:38:29 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
