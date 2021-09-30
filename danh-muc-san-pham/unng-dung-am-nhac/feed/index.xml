@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Ứnng Dụng Âm Nhạc &#8211; MUSIC WEB NGANNGO </title>
+	<atom:link href="http://localhost/myproject/wordpress/wordpress/danh-muc-san-pham/unng-dung-am-nhac/feed/" rel="self" type="application/rss+xml" />
+	<link>https://ngan-03.github.io/MYWORDPRESS</link>
+	<description>Good Happens Here</description>
+	<lastBuildDate>Thu, 30 Sep 2021 04:58:50 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+
+<image>
+	<url>https://ngan-03.github.io/MYWORDPRESS/wp-content/uploads/2021/09/HC2654B.jpg</url>
+	<title>Ứnng Dụng Âm Nhạc &#8211; MUSIC WEB NGANNGO </title>
+	<link>https://ngan-03.github.io/MYWORDPRESS</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>GarageBand &#8211; Ứng Dụng Âm Nhạc</title>
+		<link>https://ngan-03.github.io/MYWORDPRESS/product/loa-devialet-phantom-i-108db-opera-de-paris/</link>
+					<comments>https://ngan-03.github.io/MYWORDPRESS/product/loa-devialet-phantom-i-108db-opera-de-paris/#respond</comments>
+		
+		<dc:creator><![CDATA[Ngân]]></dc:creator>
+		<pubDate>Thu, 23 Sep 2021 12:03:31 +0000</pubDate>
+				<guid isPermaLink="false">https://ngan-03.github.io/MYWORDPRESS/?post_type=product&#038;p=504</guid>
+
+					<description><![CDATA[<span>GarageBand biến iPad và iPhone của bạn thành một bộ sưu tập các Nhạc cụ cảm ứng và phòng thu âm đầy đủ tính năng</span>]]></description>
+		
+					<wfw:commentRss>https://ngan-03.github.io/MYWORDPRESS/product/loa-devialet-phantom-i-108db-opera-de-paris/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
