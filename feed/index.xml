@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/myproject/wordpress/wordpress/feed/" rel="self" type="application/rss+xml" />
 	<link>https://ngan-03.github.io/MYWORDPRESS</link>
 	<description>Good Happens Here</description>
-	<lastBuildDate>Sun, 10 Oct 2021 13:05:27 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 10 Oct 2021 17:56:59 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,24 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Điểm danh các loại nhạc cụ phổ biến được ưa chuộng hiện nay</title>
+		<link>https://ngan-03.github.io/MYWORDPRESS/diem-danh-cac-loai-nhac-cu-pho-bien-duoc-ua-chuong-hien-nay/</link>
+					<comments>https://ngan-03.github.io/MYWORDPRESS/diem-danh-cac-loai-nhac-cu-pho-bien-duoc-ua-chuong-hien-nay/#respond</comments>
+		
+		<dc:creator><![CDATA[Ngân]]></dc:creator>
+		<pubDate>Sun, 10 Oct 2021 17:56:56 +0000</pubDate>
+				<category><![CDATA[Nhạc cụ]]></category>
+		<category><![CDATA[nhạc cụ]]></category>
+		<guid isPermaLink="false">https://ngan-03.github.io/MYWORDPRESS/?p=1076</guid>
+
+					<description><![CDATA[i góp phần tạo nên những âm thanh đa dạng. Mang tới những giá trị muôn màu cho cuộc sống của con người. Một bản nhạc du dương mang tới cảm giác yên bình dễ chịu. Một bản nhạc sôi động khiến con người cảm thấy vui vẻ hơn. Như là một phần không thể thiếu đến với con người.]]></description>
+		
+					<wfw:commentRss>https://ngan-03.github.io/MYWORDPRESS/diem-danh-cac-loai-nhac-cu-pho-bien-duoc-ua-chuong-hien-nay/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>TOP 5 GUITAR ĐIỆN GIÁ RẺ NHẤT HIỆN NAY &#8211; CỰC CHẤT</title>
 		<link>https://ngan-03.github.io/MYWORDPRESS/top-guitar-dien-gia-re/</link>
 					<comments>https://ngan-03.github.io/MYWORDPRESS/top-guitar-dien-gia-re/#respond</comments>

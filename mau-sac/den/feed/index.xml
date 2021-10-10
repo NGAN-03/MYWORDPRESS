@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/myproject/wordpress/wordpress/mau-sac/den/feed/" rel="self" type="application/rss+xml" />
 	<link>https://ngan-03.github.io/MYWORDPRESS</link>
 	<description>Good Happens Here</description>
-	<lastBuildDate>Sun, 10 Oct 2021 05:45:34 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 10 Oct 2021 18:24:28 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,22 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Đàn Guitar Classic</title>
+		<link>https://ngan-03.github.io/MYWORDPRESS/product/dan-guitar-classic/</link>
+					<comments>https://ngan-03.github.io/MYWORDPRESS/product/dan-guitar-classic/#respond</comments>
+		
+		<dc:creator><![CDATA[Ngân]]></dc:creator>
+		<pubDate>Sun, 26 Sep 2021 10:37:48 +0000</pubDate>
+				<guid isPermaLink="false">https://ngan-03.github.io/MYWORDPRESS/?post_type=product&#038;p=749</guid>
+
+					<description><![CDATA[Không lo cong cần vì đàn đã có ty chống cong Mặt gỗ thông cho âm hay hơn Dây cực thấp giúp bạn chơi đỡ đau tay. Mặt top gỗ thông nguyên tấm.]]></description>
+		
+					<wfw:commentRss>https://ngan-03.github.io/MYWORDPRESS/product/dan-guitar-classic/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Soundmax AH320</title>
 		<link>https://ngan-03.github.io/MYWORDPRESS/product/tai-nghe-soundmax-ah320-trang/</link>
 					<comments>https://ngan-03.github.io/MYWORDPRESS/product/tai-nghe-soundmax-ah320-trang/#respond</comments>
@@ -39,6 +55,22 @@
 					<description><![CDATA[Thế hệ mới, màu trắng có nhiều vân tạo nên sự mới mẻ, thu hút. Đặc biệt, khi hoạt động phần chụp tai còn phát ra ánh sáng từ đèn led nhìn hấp dẫn, tạo nên phong cách, cá tính cho người dùng.Soundmax AH320 (Trắng) có nhiều ưu điểm]]></description>
 		
 					<wfw:commentRss>https://ngan-03.github.io/MYWORDPRESS/product/tai-nghe-soundmax-ah320-trang/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Nashville Guitar Capo</title>
+		<link>https://ngan-03.github.io/MYWORDPRESS/product/g7th-nashville-guitar-capo/</link>
+					<comments>https://ngan-03.github.io/MYWORDPRESS/product/g7th-nashville-guitar-capo/#respond</comments>
+		
+		<dc:creator><![CDATA[Ngân]]></dc:creator>
+		<pubDate>Fri, 24 Sep 2021 04:06:26 +0000</pubDate>
+				<guid isPermaLink="false">https://ngan-03.github.io/MYWORDPRESS/?post_type=product&#038;p=571</guid>
+
+					<description><![CDATA[Nếu bạn đang tìm kiếm một capo guitar toàn diện thì G7th Nashville sẽ là sự bổ sung cho bộ sưu tập của bạn.]]></description>
+		
+					<wfw:commentRss>https://ngan-03.github.io/MYWORDPRESS/product/g7th-nashville-guitar-capo/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
